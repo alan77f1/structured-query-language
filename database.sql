@@ -202,7 +202,7 @@ go
 	go
 	
 --Nhập data cho bảng GIAOVIEN
-	Insert Into GIAOVIEN(MAGV,HOTEN,LUONG,PHAI,NGSINH,DIACHI)
+	Insert Into GIAOVIEN(MAGV,HOTEN,LUONG,PHAI,NGSINH,DIACHI, )
 	values ('001',N'Nguyễn Hoài An',2000.0,N'Nam','1973-02-15',N'25/3 Lạc Long Quân, Q.10,TP HCM')
 	Insert Into GIAOVIEN(MAGV,HOTEN,LUONG,PHAI,NGSINH,DIACHI)
 	values ('002',N'Trần Trà Hương',2500.0,N'Nữ','1960-06-20',N'125 Trần Hưng Đạo, Q.1, TP HCM')
@@ -708,9 +708,60 @@ SELECT dbo.UF_AgeOfYear(NgSinh), dbo.dbo.UF_IsOdd(dbo.UF_AgeOfYear(NgSinh)) FROM
 
 
 
+-- Trigger
 
+-- Trigger sẽ được gọi mỗi khi có thao tác thay đổi thông tin bảng
+-- Inserted: Chứa những trường đã INSERT | UPDATE vào bảng
+-- Deleted: Chứa những trường đã xóa khỏi bảng
+-- example 1
+CREATE TRIGGER UTG_InsertGiaoVien
+ON dbo.GIAOVIEN
+FOR INSERT , UPDATE
+AS
+BEGIN
+     -- ROLLBACK TRAN
+	 PRINT 'Trigger'
+END
+GO
 
+INSERT dbo.GIAOVIEN
+          (MAGV,
+		  HOTEN,
+		  LUONG,
+		  PHAI,
+		  NGSINH,
+		  DIACHI
+		  )
+	values ('011',
+			N'Nguyễn Hoài An Nhan',
+			2000.0,
+			N'Nu',
+			'1973-02-15',
+			N'25/3 Lạc Long Quân Q.10,TP HCM'
+			)
 
+-- example 2
+CREATE TRIGGER UTG_AbortOlderThan40
+ON dbo.GIAOVIEN
+FOR DELETE
+AS
+BEGIN
+    DECLARE @Count INT = 0
+
+	SELECT @Count = COUNT(*) FROM Deleted
+	WHERE YEAR(GETDATE()) - YEAR(Deleted.NGSINH) > 40
+
+	IF(@Count > 0)
+	BEGIN
+	    PRINT N'Không được xóa người hơn 40 tuổi'
+		ROLLBACK TRAN
+	END
+END
+GO
+-- test 
+select * from dbo.GIAOVIEN  
+
+-- LÚC truy vấn máy sẽ thông báo -> N'Không được xóa người hơn 40 tuổi' và ra bug trigger
 
 
 
