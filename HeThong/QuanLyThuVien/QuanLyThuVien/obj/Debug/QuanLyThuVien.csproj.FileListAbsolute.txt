@@ -1,0 +1,10 @@
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMain.resources
