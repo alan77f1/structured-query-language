@@ -1,0 +1,13 @@
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\bin\Debug\QuanLyTuyenSinh.exe.config
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\bin\Debug\QuanLyTuyenSinh.exe
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\bin\Debug\QuanLyTuyenSinh.pdb
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.csproj.AssemblyReference.cache
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.FormBaiThi.resources
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.FormChamThi.resources
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.FormHoSo.resources
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.FormPhongThi.resources
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.Properties.Resources.resources
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.csproj.GenerateResource.cache
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.csproj.CoreCompileInputs.cache
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.exe
+D:\SQL\HeThong\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.pdb

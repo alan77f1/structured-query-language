@@ -8,3 +8,4 @@ D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCo
 D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
 D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMain.resources
+D:\SQL\HeThong\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormQuanLyTraMuonSach.resources

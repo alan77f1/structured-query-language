@@ -8,7 +8,7 @@ namespace QuanLyThuVien
 {
     static class Program
     {
-        /// <summary>
+        /// <summary>sss
         /// The main entry point for the application.
         /// </summary>
         [STAThread]

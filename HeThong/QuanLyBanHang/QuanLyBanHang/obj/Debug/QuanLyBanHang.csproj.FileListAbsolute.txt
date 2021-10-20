@@ -1,0 +1,13 @@
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormGSDonHang.resources
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormQLDonHang.resources
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormTrangchu.resources
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormQLGiaoHang.resources
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\SQL\HeThong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
